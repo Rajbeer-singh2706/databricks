@@ -25,6 +25,17 @@
 5. Data Governance
 
 ######
-1. 
-2. What is Databricks? : DONE 
+1. Overview 
+2. What is Databricks? 
 3. Get started with comminity Edition 
+   community.cloud.databricks.com
+4. Free trail on AZUre 
+   https://github.com/derar-alhussein/Databricks-Certified-Data-Engineer-Associate
+ * Resource Group 
+
+5. Exploring Workspace
+
+6. Course Materials
+7. Creating Cluster 
+8. Notebook Fundamentals
+9. Databricks Repos 
