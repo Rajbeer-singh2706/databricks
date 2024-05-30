@@ -31,7 +31,6 @@ DESCRIBE DETAIL employees
 -- Cluster has 4 cores
 
 -- COMMAND ----------
-
 UPDATE employees SET salary = salary + 100 WHERE name LIKE "A%"
 
 -- COMMAND ----------

@@ -43,28 +43,22 @@ SELECT "Hello world from SQL!"
 %run ../Includes/Setup
 
 # COMMAND ----------
-
 print(full_name)
 
 # COMMAND ----------
-
 %fs ls '/databricks-datasets'
 
-# COMMAND ---------- databricks utils 
-
+# COMMAND ---------- databricks utils
 dbutils.help()
 
 # COMMAND ----------
-
 dbutils.fs.help()
 
 # COMMAND ----------
-
 files = dbutils.fs.ls('/databricks-datasets')
 print(files)
 
 # COMMAND ----------
-
 display(files)
 
 # COMMAND ----------
